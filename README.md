@@ -109,7 +109,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/raffrant/sports_and_ml.git
-cd probabilisticML/sports
+cd sports_and_ml
 
 Open the folder you want to work on:
 
