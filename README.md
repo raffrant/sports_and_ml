@@ -1,9 +1,5 @@
 Machine Learning in Sports
 
-[
-[
-[
-
 A collection of sports analytics and prediction projects built with machine learning, statistical modeling, and historical match data. The repository focuses on three practical directions: basketball analysis in the EuroLeague, NBA over/under prediction, and football over/under 2.5 goals modeling.
 Overview
 
