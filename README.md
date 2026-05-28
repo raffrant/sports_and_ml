@@ -108,7 +108,7 @@ Getting Started
 Clone the repository:
 
 bash
-git clone https://github.com/raffrant/probabilisticML.git
+git clone https://github.com/raffrant/sports_and_ml.git
 cd probabilisticML/sports
 
 Open the folder you want to work on:
