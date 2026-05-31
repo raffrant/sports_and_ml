@@ -161,6 +161,9 @@ Planned improvements may include:
 
     deployment as notebooks, scripts, or interactive apps.
 
+Visualization
+For Jupyter notebooks, you can use https://nbviewer.org/ to display any results if there is any problem with Github sharing the content.
+
 Notes
 
 Each folder can have its own data analysis, logic, and modeling assumptions. For that reason, the best way to use this repository is to treat each project as its own mini-pipeline inside the broader sports ML collection.
