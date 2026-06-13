@@ -11,7 +11,7 @@ The projects are organized around three use cases:
 
     NBA totals prediction — over/under modeling using current-season and historical NBA data. (nba folder)
 
-    Football goals prediction — over/under 2.5 goals forecasting using team history and current-season context. (premierleague folder)
+    Football goals prediction — over/under 2.5 goals forecasting using team history and current-season context. (premierleague and worldcup folder)
 
 Project Structure
 
@@ -19,6 +19,7 @@ text
 sports/
 ├── basketball/
 ├── nba/
+├── worldcup/
 └── premierleague/
 
 Projects
@@ -58,7 +59,7 @@ The NBA workflow typically includes:
     
 3. Football Over/Under 2.5 Goals Prediction
 
-Folder: premierleague/
+Folder: premierleague/ and worldcup/
 
 This project predicts whether a football match will finish over or under 2.5 goals. The approach combines historical team behavior with current-season form, allowing the model to capture both long-term identity and short-term momentum.
 
@@ -125,6 +126,11 @@ or
 
 bash
 cd premierleague
+
+or
+
+bash
+cd worldcup
 
 Common Tools
 
