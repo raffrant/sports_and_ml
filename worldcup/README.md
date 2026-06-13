@@ -62,4 +62,4 @@ Using data up to 2022, the model generates probabilities for upcoming 2026 match
 
 
 
-    <img width="2133" height="1234" alt="image" src="https://github.com/user-attachments/assets/0431af6d-0acf-4917-acd5-25ac1308d1c0" />
+![Alt Text]()
