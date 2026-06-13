@@ -62,4 +62,4 @@ Using data up to 2022, the model generates probabilities for upcoming 2026 match
 
 
 
-![Alt Text]()
+![Alt Text](results.png)
